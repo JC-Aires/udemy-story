@@ -1,1 +1,2 @@
 Git exercise. Chapter 1. First line.
+Git exercise. Changing to branch branch-plot.
